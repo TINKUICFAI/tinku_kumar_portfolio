@@ -1,0 +1,40 @@
+{
+  "name": "tinku_kumar_portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@heroicons/react": "^1.0.6",
+    "@reach/disclosure": "^0.16.2",
+    "@reach/menu-button": "^0.16.2",
+    "@reach/tabs": "^0.16.4",
+    "@tailwindcss/aspect-ratio": "^0.4.0",
+    "@tailwindcss/line-clamp": "^0.3.1",
+    "@tailwindcss/typography": "^0.5.2",
+    "next": "12.1.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "remark": "^14.0.2",
+    "remark-html": "^15.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "17.0.22",
+    "@types/react": "17.0.41",
+    "autoprefixer": "^10.4.4",
+    "eslint": "8.11.0",
+    "eslint-config-next": "12.1.0",
+    "gray-matter": "^4.0.3",
+    "postcss": "^8.4.12",
+    "tailwindcss": "^3.0.23",
+    "typescript": "4.6.2"
+  },
+  "description": "This project's purpose is to give you a head start on your portfolio site if you are yet to create one as well as give you meaningful challenges that will equip you to build out your portfolio whether you're using this template or not. If you have a site and want to checkout the challenges, visit the [GitHub Project Page](https://github.com/eggheadio/portfolio-template-and-challenge/projects/1).",
+  "main": "next.config.js",
+  "author": "",
+  "license": "ISC"
+}
